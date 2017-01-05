@@ -4,7 +4,7 @@ title: About me
 subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Kinshuk Chandra. Here is a summary:
+My name is Kinshuk Chandra. Here is a what you should know about me:
 
 I am currently employed as a Senior Software Engineer at zeotap. I have around 6 years of experience in developing scalable and distributed applications. At Zeotap I handle critical products which include zeoMapper, zeoData and also contribute significantly in DAB, which is an audience buyer platform from zeotap.
 
@@ -20,9 +20,3 @@ I am an alumnus of IIT-BHU (2006-2010) with major in Computer Science and Engine
 
 Core Strengths: Java, Go, Python, C#, Design Patterns, Distributed Environments, Analytics, Big Data [Hadoop, Hive, Spark], SQL, NoSQL [CouchDB, MongoDB, Redis], Frameworks [Spring, Hibernate, Django Rest, Spring Boot], Android, Finance[Behavioral Finance, Valuations]
 
-
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
