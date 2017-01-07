@@ -5,6 +5,6 @@ subtitle:
 ---
 
 ## Android Stock Hawk
-(code)[https://github.com/kinshuk4/AndroidStockHawk]
+[code](https://github.com/kinshuk4/AndroidStockHawk)
 |Screen 1|Stock History|
-|![StockList](https://github.com/kinshuk4/AndroidStockHawk/blob/master/screenshots/stocklistview.png)|![Stock History](https://github.com/kinshuk4/AndroidStockHawk/blob/master/screenshots/stockhistory.png)|
+|![StockList](https://github.com/kinshuk4/AndroidStockHawk/raw/master/screenshots/stocklistview.png)|![Stock History](https://github.com/kinshuk4/AndroidStockHawk/raw/master/screenshots/stockhistory.png)|
