@@ -12,7 +12,7 @@
     "crossfilter": ["JavaScript"],
     "cube": ["JavaScript"],
     "cubism": ["JavaScript"],
-    "dagger": ["Android", "Java"],
+    "AndroidStockHawk": ["Android", "Java"],
     "ETL": ["Ruby"],
     "fdoc": ["Ruby"],
     "ghostunnel": ["Go"],
