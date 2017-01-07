@@ -59,4 +59,13 @@ subtitle:
 ## Movie DB
 [Repo](https://github.com/kinshuk4/AndroidMovieStage2)
 
+<table>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/kinshuk4/AndroidMovieStage2/master/screenshots/gridview.png"/></td>
+    <td><img src="https://raw.githubusercontent.com/kinshuk4/AndroidMovieStage2/master/screenshots/sort.png"/></td>
+    <td><img src="https://raw.githubusercontent.com/kinshuk4/AndroidMovieStage2/master/screenshots/detailed.png"/></td>    
+    <td><img src="https://raw.githubusercontent.com/kinshuk4/AndroidMovieStage2/master/screenshots/trailer_reviews.png"/></td>  
+  </tr>
+</table>
+
 
