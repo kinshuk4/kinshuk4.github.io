@@ -25,7 +25,7 @@ description: A virtual proof that name is awesome!
 navbar-links:
   About Me: "aboutme"
   Android: "subpages/android"
-  Backend: "subpages/Backend"
+  Backend: "subpages/backend"
   # Resources:
   #   - Android : "http://deanattali.com/beautiful-jekyll/"
   #   - Learn markdown: "http://www.markdowntutorial.com/"
