@@ -5,7 +5,8 @@ subtitle:
 ---
 
 ## Yara
-[Repo](https://github.com/kinshuk4/Yara)
+
+<a class="secondaryBtn" href="https://github.com/kinshuk4/Yara" target="_blank">Github Repo</a>
 
 <table>
   <tr>

@@ -680,3 +680,22 @@ td.gutter {
 #social-share-section {
   margin-bottom: 30px;
 }
+
+.secondaryBtn {
+  border: 2px solid #EA7D52;
+  background-color: transparent;
+  padding: 10px 20px;
+  color: white;
+  width: 180px;
+  font-size: 1em;
+  font-weight: lighter;
+  letter-spacing: 2px;
+  display: block;
+  margin: 0px auto;
+  transition: all 300ms linear;
+  cursor: pointer; }
+  .secondaryBtn:hover {
+    background-color: #EA7D52;
+    box-shadow: 1px 1px 1px rgba(255, 255, 255, 0.5);
+    transition: all 300ms linear; }
+
