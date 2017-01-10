@@ -21,7 +21,8 @@ subtitle:
 
 
 ## Weather Wearable App
-[Repo](https://github.com/kinshuk4/AndroidGoUbiquitous)
+
+<a class="secondaryBtn" href="https://github.com/kinshuk4/AndroidGoUbiquitous" target="_blank">Github Repo</a>
 
 <table>
   <tr>
@@ -32,7 +33,8 @@ subtitle:
 
 
 ## RSS Reader
-[Repo](https://github.com/kinshuk4/AndroidXyzReader)
+
+<a class="secondaryBtn" href="https://github.com/kinshuk4/AndroidXyzReader" target="_blank">Github Repo</a>
 
 <table>
   <tr>
@@ -44,11 +46,13 @@ subtitle:
 </table>
 
 ## Joke Teller
-[Repo](https://github.com/kinshuk4/AndroidBuildItBigger)
+
+<a class="secondaryBtn" href="https://github.com/kinshuk4/AndroidBuildItBigger" target="_blank">Github Repo</a>
 
 
 ## Android Stock Hawk
-[Repo](https://github.com/kinshuk4/AndroidStockHawk)
+
+<a class="secondaryBtn" href="https://github.com/kinshuk4/AndroidStockHawk" target="_blank">Github Repo</a>
 
 
 <table>
@@ -60,7 +64,8 @@ subtitle:
 
 
 ## Movie DB
-[Repo](https://github.com/kinshuk4/AndroidMovieStage2)
+
+<a class="secondaryBtn" href="https://github.com/kinshuk4/AndroidMovieStage2" target="_blank">Github Repo</a>
 
 <table>
   <tr>
