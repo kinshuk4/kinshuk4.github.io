@@ -15,6 +15,7 @@ subtitle: This is where I will tell my friends way too much about me
 
   
 <div class="posts-list">
+  <div id="squareContent"></div>
   {% for post in paginator.posts %}
   <article class="post-preview">
     <a href="{{ post.url | prepend: site.baseurl }}">
@@ -79,4 +80,3 @@ subtitle: This is where I will tell my friends way too much about me
   {% endif %}
 </ul>
 {% endif %}
-<div id="squareContent"></div>
