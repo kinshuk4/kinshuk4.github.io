@@ -699,3 +699,7 @@ td.gutter {
     box-shadow: 1px 1px 1px rgba(255, 255, 255, 0.5);
     transition: all 300ms linear; }
 
+#squareContent{
+    padding: 10;
+    margin: 10;
+}
