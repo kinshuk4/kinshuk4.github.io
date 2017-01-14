@@ -90,9 +90,18 @@ h3 {
   .mainHeader .topLeft {
     height: 50%;
     width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
     background-image: url("../img/brooke-left.png");
     background-size: cover;
     min-height: 360px; }
+    .mainHeader .topLeft h1 {
+      font-weight: lighter;
+      color: white;
+      padding: 0;
+      margin: 0; }
   .mainHeader .topRight {
     background-color: #BCE784;
     height: 50%;
@@ -107,23 +116,16 @@ h3 {
       color: black;
       padding: 0;
       margin: 0; }
-      @media screen and (max-width: 620px) {
-        .mainHeader .topRight h1 {
-          text-align: center; } }
-      .mainHeader .topRight h1:first-child {
-        font-size: 60px; }
-        @media screen and (max-width: 620px) {
-          .mainHeader .topRight h1:first-child {
-            font-size: 48px;
-            line-height: 60px; } }
-      .mainHeader .topRight h1:nth-child(2) {
-        letter-spacing: 2px;
-        text-transform: uppercase; }
-        @media screen and (max-width: 620px) {
-          .mainHeader .topRight h1:nth-child(2) {
-            font-size: 28px;
-            letter-spacing: 1px;
-            margin-top: 15px; } }
+    .mainHeader .topRight .block-nav {
+      border: 3px solid transparent;
+      padding: 10px 20px; }
+    .mainHeader .topRight:hover {
+      transition: all 300ms linear; }
+      .mainHeader .topRight:hover .block-nav {
+        transition: all 300ms linear;
+        border: 3px solid black;
+        padding: 10px 20px; }
+    
   .mainHeader .portfolio-block {
     min-height: 360px;
     background-color: #EA7D52;
@@ -438,7 +440,20 @@ h3 {
     background-color: #EA7D52;
     box-shadow: 1px 1px 1px rgba(255, 255, 255, 0.5);
     transition: all 300ms linear; }
-
+.secondaryBtn2 {
+  background-color: transparent;
+  padding: 10px 20px;
+  color: white;
+  font-size: 1em;
+  font-weight: lighter;
+  letter-spacing: 2px;
+  display: block;
+  margin: 0px auto;
+  transition: all 300ms linear;
+  cursor: pointer; }
+  .secondaryBtn2:hover {
+    box-shadow: 1px 1px 1px rgba(255, 255, 255, 0.5);
+    transition: all 300ms linear; }
 #allProjects {
   border: 1px solid transparent;
   background-color: transparent;
