@@ -1,6 +1,6 @@
 ---
 layout: page
-title: My Android Portfolio
+title: Android Portfolio
 subtitle: 
 ---
 
