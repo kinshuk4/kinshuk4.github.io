@@ -64,6 +64,7 @@ author:
   kaggle: kinshuk4
   angellist: kinshuk-chandra
   udacity: kinshukchandra
+  stackoverflowstory: kinshuk4
 
 
 # Select which links to show in the footer
@@ -86,6 +87,7 @@ footer-links-active:
   kaggle: true
   angellist: true
   udacity: true
+  stackoverflowstory: true
 
 # Select which share links to show in posts
 share-links-active:
