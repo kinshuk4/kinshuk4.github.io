@@ -62,7 +62,7 @@ author:
   spotify: yourname   # eg. daattali
   telephone: yourphone   # eg. +14159998888
   kaggle: kinshuk4
-  angel: kinshuk-chandra
+  angellist: kinshuk-chandra
   udacity: kinshukchandra
 
 
@@ -84,7 +84,7 @@ footer-links-active:
   spotify: false
   telephone: false
   kaggle: true
-  angel: true
+  angellist: true
   udacity: true
 
 # Select which share links to show in posts
