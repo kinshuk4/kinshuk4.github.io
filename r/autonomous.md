@@ -12,7 +12,7 @@ subtitle:
     <td><img src="https://raw.githubusercontent.com/kinshuk4/CarND-Vehicle-Detection/master/examples/output_bboxes.png"/></td>
   </tr>
 </table>
----
+-----
 
 ## CarND-Advanced-Lane-Lines
 <a class="secondaryBtn" href="https://github.com/kinshuk4/CarND-Advanced-Lane-Lines" target="_blank">Github Repo</a>
@@ -23,7 +23,7 @@ subtitle:
   <td><img src="https://raw.githubusercontent.com/kinshuk4/CarND-Advanced-Lane-Lines/master/output_images/pipeline_result.png"/></td>
   </tr>
 </table>
----
+-----
 
 ## CarND-Behavioral-Cloning-P3
 
@@ -37,7 +37,7 @@ subtitle:
     <td><img src="https://raw.githubusercontent.com/kinshuk4/CarND-Behavioral-Cloning-P3/master/run1/2017_04_15_13_26_57_126.jpg"/></td>
   </tr>
 </table>
----
+-----
 
 ## CarND-Traffic-Sign-Classifier-Project
 
@@ -51,7 +51,7 @@ subtitle:
     <td><img src="https://raw.githubusercontent.com/kinshuk4/CarND-Traffic-Sign-Classifier-Project/master/test/image4.jpg"/></td>
   </tr>
 </table>
----
+-----
 
 
 ## CarND-LaneLines-P1
@@ -63,4 +63,4 @@ subtitle:
     <td><img src="https://raw.githubusercontent.com/kinshuk4/CarND-LaneLines-P1/master/laneLines_thirdPass.jpg"/></td>
   </tr>
 </table>
----
+-----
