@@ -173,6 +173,16 @@
             </a>
           </li>
        {% endif %}
+        {% if site.author.aboutme and site.footer-links-active.aboutme %}
+          <li>
+            <a href="https://about.me/{{ site.author.aboutme }}" title="AboutMe">
+              <span class="fa-stack fa-lg">
+                <i class="fa fa-circle fa-stack-2x"></i>
+                <i class="fa fa-aboutme fa-stack-1x fa-inverse"></i>
+              </span>
+            </a>
+          </li>
+       {% endif %}
       {% if site.author.telephone and site.footer-links-active.telephone %}
           <li>
             <a href="tel:{{ site.author.telephone }}" title="Phone">
