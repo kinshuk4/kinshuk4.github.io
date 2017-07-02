@@ -28,15 +28,12 @@ Data: Hadoop, Hive, Map Reduce, HBase, Spark
 
 **Behavioural Cloning** - https://github.com/kinshuk4/CarND-Behavioral-Cloning-P3 |  Mar 2017
 -  Fine-tuned a pre-trained Neural Network in Keras to control a car in a simulator
-
 -  Trained and validated NVIDIA Model CNN to clone human driving behavior to control steering for a self-driving car
 
 **Advanced Lane Detection** - https://github.com/kinshuk4/CarND-Advanced-Lane-Lines  |    Apr 2017
 
 -  Used basic computer vision techniques to find lane markings on the road for the Self-Driving cars
-
 -  Undistorted camera images, applied gradient- and color-based filters and produced a binary image containing lanes
-
 -  Worked on Advanced Lane Detection by fitting the lane lines using polynomials and warped back image on original
 
 ## Work Experience
@@ -67,7 +64,15 @@ Data: Hadoop, Hive, Map Reduce, HBase, Spark
 
 ## Honors and Activities
 
-- Won IDC Innovation award - 2013 for Query-Intent project in Microsoft
+- Won IDC Innovation award - 2013 for Query-Intent project in Microsoft  | Feb 2013
 
-Feb 2013
+
+
+
+
+
+
+
+
+
 
