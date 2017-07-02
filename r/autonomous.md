@@ -3,7 +3,9 @@ layout: page
 title: Autonomous Cars Portfolio
 subtitle: 
 ---
-## CarND-Vehicle-Detection <a class="secondaryBtn" href="https://github.com/kinshuk4/CarND-Vehicle-Detection" target="_blank">Github Repo</a>
+## CarND-Vehicle-Detection 
+
+<a class="secondaryBtn" href="https://github.com/kinshuk4/CarND-Vehicle-Detection" target="_blank">Github Repo</a>
 - Trained and validated SVM for vehicle detection and tracking via front-facing cameras using OpenCV and a HOG
 - Used Sliding Windows technique to create heat mapping for localization of vehicles
 <table>
