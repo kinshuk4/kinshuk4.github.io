@@ -66,10 +66,7 @@ author:
   angellist: kinshuk-chandra
   udacity: kinshukchandra
   stackoverflowstory: kinshuk4
-<<<<<<< HEAD
-=======
   aboutme: kinshukchandra
->>>>>>> origin/master
 
 
 # Select which links to show in the footer
@@ -93,10 +90,7 @@ footer-links-active:
   angellist: true
   udacity: true
   stackoverflowstory: true
-<<<<<<< HEAD
-=======
   aboutme: true
->>>>>>> origin/master
 
 # Select which share links to show in posts
 share-links-active:
