@@ -24,9 +24,10 @@ description: A virtual proof that name is awesome!
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
+  Autonomous-Cars: "r/autonomous"
   Android: "r/android"
   Backend: "r/backend"
-  AutonomousCars: "r/autonomous"
+  
   # Resources:
   #   - Android : "http://deanattali.com/beautiful-jekyll/"
   #   - Learn markdown: "http://www.markdowntutorial.com/"
@@ -65,6 +66,10 @@ author:
   angellist: kinshuk-chandra
   udacity: kinshukchandra
   stackoverflowstory: kinshuk4
+<<<<<<< HEAD
+=======
+  aboutme: kinshukchandra
+>>>>>>> origin/master
 
 
 # Select which links to show in the footer
@@ -88,6 +93,10 @@ footer-links-active:
   angellist: true
   udacity: true
   stackoverflowstory: true
+<<<<<<< HEAD
+=======
+  aboutme: true
+>>>>>>> origin/master
 
 # Select which share links to show in posts
 share-links-active:
