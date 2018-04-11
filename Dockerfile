@@ -21,7 +21,7 @@ RUN gem install rouge -v 1.10.1
 RUN gem install pkg-config -v 1.1.7
 RUN gem install terminal-table -v 1.6.0
 RUN gem install ethon -v 0.9.0
-RUN gem install nokogiri -v 1.6.8
+RUN gem install nokogiri -v 1.8.2
 RUN gem install activesupport -v 4.2.6
 RUN gem install html-pipeline -v 2.4.1
 RUN gem install jekyll-watch -v 1.4.0
