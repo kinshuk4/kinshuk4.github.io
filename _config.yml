@@ -68,7 +68,7 @@ footer-link-col: "#404040"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Some Person
+  name: Kinshuk Chandra
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
@@ -76,15 +76,15 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   rss: true
-  email: "someone@example.com"
-  facebook: daattali
-  github: daattali
-  twitter: daattali
-#  reddit: yourname
-#  google-plus: +DeanAttali
-#  linkedin: daattali
+#  email: "someone@example.com"
+  facebook: kinshuk.chandra
+  github: kinshuk4
+  twitter: kinshuk4
+  reddit: kinshuk4
+  google-plus: +KinshukChandra4
+  linkedin: kinshuk-chandra
 #  xing: yourname
-#  stackoverflow: "3943160/daattali"
+  stackoverflow: "3222727/kinshuk4"
 #  snapchat: deanat78
 #  instagram: deanat78
 #  youtube: user/deanat78
