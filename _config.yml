@@ -24,9 +24,10 @@ description: A virtual proof that name is awesome!
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  Autonomous-Cars: "r/autonomous"
   Android: "r/android"
   Backend: "r/backend"
+  Cars: "r/cars"
+  ML: "r/ml"
   
   # Resources:
   #   - Android : "http://deanattali.com/beautiful-jekyll/"
